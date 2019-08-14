@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/header_logo",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "",
+    "description": "Admin can upload store logo from magento back-end.",
+    "authors": [
+    {
+        "name": "Leeladhar Malav",
+        "email": "lalit.softengineer@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
